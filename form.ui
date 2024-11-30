@@ -2,6 +2,9 @@
 <ui version="4.0">
  <class>NurOSHello</class>
  <widget class="QWidget" name="NurOSHello">
+  <property name="windowModality">
+   <enum>Qt::WindowModal</enum>
+  </property>
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -11,7 +14,13 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>NurOSHello</string>
+   <string>Welcome To NurOS</string>
+  </property>
+  <property name="windowIcon">
+   <iconset theme="QIcon::ThemeIcon::Battery"/>
+  </property>
+  <property name="locale">
+   <locale language="English" country="UnitedStates"/>
   </property>
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
@@ -87,27 +96,27 @@
   <widget class="QLabel" name="label_3">
    <property name="geometry">
     <rect>
-     <x>10</x>
+     <x>20</x>
      <y>170</y>
-     <width>781</width>
+     <width>761</width>
      <height>281</height>
     </rect>
    </property>
    <property name="font">
     <font>
      <family>Cantarell</family>
-     <pointsize>10</pointsize>
+     <pointsize>11</pointsize>
      <bold>false</bold>
     </font>
    </property>
    <property name="locale">
-    <locale language="English" country="Netherlands"/>
+    <locale language="English" country="UnitedStates"/>
    </property>
    <property name="frameShape">
     <enum>QFrame::NoFrame</enum>
    </property>
    <property name="text">
-    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The new and indepent operating system based on Linux! You can work with your favourite programs such as FreeOffice OBS Studio,&lt;/p&gt;&lt;p&gt;Blender and Google Chrome with comfort quality and performance.&lt;/p&gt;&lt;p&gt;We are developers from non-big company and we can know about user's issues. You can support us via Patreon or go to work with us!&lt;/p&gt;&lt;p&gt;Check our Telegram below for news, updates and questions. If you have any questions or ideas&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The new and indepent operating system based on Linux! You can work with your favourite programs such as&lt;/p&gt;&lt;p&gt;FreeOffice OBS Studio, Blender and Google Chrome with comfort quality and performance.&lt;/p&gt;&lt;p&gt;We are developers from non-big company and we can know about user's issues and you can install or delete from&lt;/p&gt;&lt;p&gt;system any packages. Our Linux distribution is minimal and clean out-of-box, but you can still install any other&lt;/p&gt;&lt;p&gt;packages such as proprietary. You can support us via Patreon or go to work with us! Check our Telegram below for&lt;/p&gt;&lt;p&gt;news, updates and questions. If you have any questions or ideas, you can ask on our Telegram channel.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;By pressing the button below, you will be a member of NurOS   ;&amp;gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
    <property name="scaledContents">
     <bool>false</bool>
@@ -150,7 +159,7 @@
     <rect>
      <x>490</x>
      <y>510</y>
-     <width>58</width>
+     <width>81</width>
      <height>18</height>
     </rect>
    </property>

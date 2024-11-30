@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 14.0.2, 2024-11-30T15:28:57. -->
+<!-- Written by QtCreator 14.0.2, 2024-11-30T19:35:35. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -154,7 +154,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">nuroshello.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/vadim/NurOS-Hello/nuroshello.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/vadim/NurOS-Hello/nuroshello.py</value>
-    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
+    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">true</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/vadim/NurOS-Hello/nuroshello.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
