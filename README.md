@@ -1,45 +1,4 @@
-NurOS-Hello — это приветственное приложение для новой и независимой операционной системы NurOS, основанной на Linux. Это приложение предоставляет пользователям информацию о системе и возможность продолжить взаимодействие с NurOS.
-
-## Описание
-
-NurOS — это минималистичная и чистая дистрибуция Linux, которая позволяет пользователям работать с их любимыми программами, такими как FreeOffice, OBS Studio, Blender и Google Chrome, с комфортом и высокой производительностью. Мы, разработчики из небольшой компании, стремимся учитывать потребности пользователей и предоставляем возможность устанавливать и удалять пакеты из системы.
-
-## Функциональность
-
-- Приветственное окно с информацией о NurOS.
-- Кнопка для продолжения взаимодействия с системой.
-- Ссылки на официальные ресурсы, такие как Telegram, GitHub и основной сайт.
-
-## Установка
-
-Для работы с проектом необходимо установить зависимости. Используйте requirements.txt для установки необходимых библиотек.
-
-pip install -r requirements.txt
-
-## Запуск
-
-Для запуска приложения выполните следующую команду:
-
-python nuroshello.py
-
-## Используемые технологии
-
-- Python
-- PyQt6
-
-## Ссылки
-
-- [Telegram (@nuros_tg)](https://t.me/nuros_tg)
-- [GitHub](https://github.com/nuros-linux)
-- [Основной сайт](https://nuros.anmitali.kz)
-
-## Лицензия
-
-Этот проект лицензирован под лицензией [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html). Вы можете свободно использовать, изменять и распространять этот проект, при условии, что вы соблюдаете условия данной лицензии.
-
----
-
-# NurOS-Hello (English)
+# NurOS-Hello
 
 NurOS-Hello is a welcome application for the new and independent operating system NurOS, based on Linux. This application provides users with information about the system and the opportunity to continue interacting with NurOS.
 
