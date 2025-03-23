@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-94afced0f3da7b8625c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NurOS-Hello",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NurOS-Hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NurOS-Hello-Release-aa9a7e7526e784a2cf42.json",
+					"name" : "NurOS-Hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NurOS-Hello_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NurOS-Hello_autogen-Release-5541aed24a7cb3e639ee.json",
+					"name" : "NurOS-Hello_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NurOS-Hello_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NurOS-Hello_autogen_timestamp_deps-Release-a6d4b7aaabdf85e380f3.json",
+					"name" : "NurOS-Hello_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vadim/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Release",
+		"source" : "/home/vadim/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438/NurOS/Soft/NurOS-Hello"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

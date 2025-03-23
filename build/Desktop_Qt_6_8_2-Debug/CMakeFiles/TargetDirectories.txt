@@ -1,0 +1,9 @@
+/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/NurOS-Hello.dir
+/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/edit_cache.dir
+/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/list_install_components.dir
+/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install.dir
+/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install/local.dir
+/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install/strip.dir
+/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/NurOS-Hello_autogen_timestamp_deps.dir
+/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/NurOS-Hello_autogen.dir
