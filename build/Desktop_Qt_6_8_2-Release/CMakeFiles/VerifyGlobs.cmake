@@ -41,6 +41,7 @@ endif()
 # _directory_contents at /home/vadim/Qt/6.8.2/gcc_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/home/vadim/Документи/NurOS/Soft/NurOS-Hello/*.cpp")
 set(OLD_GLOB
+  "/home/vadim/Документи/NurOS/Soft/NurOS-Hello/CMakeFiles/3.31.6/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/3.31.6/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Release/CMakeFiles/3.31.6/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Release/NurOS-Hello_autogen/EWIEGA46WW/moc_nuroshello.cpp"

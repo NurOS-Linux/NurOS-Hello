@@ -7,9 +7,5 @@
 74	99	1742737940566056133	NurOS-Hello_autogen/mocs_compilation.cpp	e23f7adff03df293
 74	99	1742737940566056133	NurOS-Hello_autogen/timestamp	e23f7adff03df293
 246	1399	1742737115307224988	CMakeFiles/NurOS-Hello.dir/main.cpp.o	45ca4d9e8cd6a53f
-1	72	1742738018224161653	/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Release/CMakeFiles/cmake.verify_globs	b0155e403ab0461e
-75	288	1742738063603224389	build.ninja	aad7d4a43e62f15e
-1	77	1742738063677224491	/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Release/CMakeFiles/cmake.verify_globs	b0155e403ab0461e
-1	72	1742738181047389897	/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Release/CMakeFiles/cmake.verify_globs	b0155e403ab0461e
-1	71	1742738182671392215	/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Release/CMakeFiles/cmake.verify_globs	b0155e403ab0461e
-1	71	1742738185903396831	/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Release/CMakeFiles/cmake.verify_globs	b0155e403ab0461e
+1	136	1742896249062966790	/home/vadim/Документи/NurOS/Soft/NurOS-Hello/build/Desktop_Qt_6_8_2-Release/CMakeFiles/cmake.verify_globs	b0155e403ab0461e
+75	288	1742896332507011367	build.ninja	aad7d4a43e62f15e
